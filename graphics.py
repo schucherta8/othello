@@ -1,7 +1,6 @@
 '''
     Andres Schuchert
-    CS 5001
-    Homework 6
+    CS 5001 
     November 18, 2018
 '''
 import turtle

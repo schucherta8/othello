@@ -1,9 +1,7 @@
 '''
 	Andres Schuchert
 	CS 5001
-	Homework 7
 	December 2, 2018
-	Citation: Used my Homework 6 file processing functions
 '''
 import graphics
 import random

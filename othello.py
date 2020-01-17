@@ -1,7 +1,6 @@
 '''
 	Andres Schuchert
 	CS 5001
-	Homework 7
 	December 2, 2018
 '''
 from board import Board

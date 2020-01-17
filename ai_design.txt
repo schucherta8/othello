@@ -1,0 +1,9 @@
+My AI is pretty dumb. It chooses a random legal spot. I have my ai scan the
+whole board first. It would only run legal moves function on empty spots 
+adjacent to stones. It would then process those empty spots to find which ones
+were actually legal moves. Once it determined which spots were legal it would 
+store them in a list. Then it would random choose a spot from the list. I
+usually beat it, but every once in a while it plays some smart moves. I would
+improve my AI by determining the most stones it could flip. Then always choose
+that legal move. Probably use a distance forumla to calculate it. Kind of like
+in centroids except pick the furtherest distance.
